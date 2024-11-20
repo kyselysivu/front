@@ -1,11 +1,14 @@
-# React + Vite
+# Kyselysivu
+by [@juhanias](https://github.com/juhanias), [@finfeny](https://github.com/finfeny), [@ananazzo](https://github.com/ananazzo)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Backend available in a [separate repository](https://github.com/kyselysivu/api)
 
-Currently, two official plugins are available:
+## Showcase
+***Quiz gameplay***
+![gif of quiz gameplay](/readme/showcase_gameplay.gif)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+***Home page***
+![picture of title screen](/readme/showcase_home.png)
 
-# Frontend dependencies
-npm install react-cookie
+***Top scores***
+![picture of scoreboard](/readme/showcase_leaderboard.png)
